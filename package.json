@@ -1,0 +1,13 @@
+{
+  "name": "hidden-attribute-polyfill",
+  "version": "0.0.1",
+  "description": "Javascript polyfill for hidden attribute. Restores element.hidden functionality for IE < 11 etc.",
+  "main": "index.js",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tytskyi/hidden-attribute-polyfill"
+  },
+  "author": "Oleksandr Tytskyi",
+  "license": "MIT"
+}
